@@ -9,6 +9,10 @@ namespace SimpleFactorySample
 {
     class Program
     {
+        /// <summary>
+        /// 简单工厂模式
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             IChart chart;
