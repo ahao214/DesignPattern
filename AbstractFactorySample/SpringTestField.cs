@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace AbstractFactorySample
 {
-    class SpringTestField
+    class SpringTestField:TextField
     {
+        public void Display()
+        {
+            Console.WriteLine("显示绿色边框的文本框");
+        }
     }
 }

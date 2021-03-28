@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace AbstractFactorySample
 {
-    class SpringComboBox
+    class SpringComboBox:ComboBox
     {
+        public void Display()
+        {
+            Console.WriteLine("显示绿色边框的组合框");
+        }
     }
 }

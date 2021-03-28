@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace AbstractFactorySample
 {
-    class SummerButton
+    class SummerButton:Button
     {
+        public void Display()
+        {
+            Console.WriteLine("显示浅蓝色的按钮");
+        }
     }
 }

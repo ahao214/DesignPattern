@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace AbstractFactorySample
 {
-    class SpringButton
+    class SpringButton:Button 
     {
+        public void Display()
+        {
+            Console.WriteLine("显示浅绿色按钮");
+        }
     }
 }

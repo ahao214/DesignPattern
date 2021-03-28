@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace AbstractFactorySample
 {
-    class SummerTextField
+    class SummerTextField:TextField
     {
+        public void Display()
+        {
+            Console.WriteLine("显示蓝色边框的文本框");
+        }
     }
 }
