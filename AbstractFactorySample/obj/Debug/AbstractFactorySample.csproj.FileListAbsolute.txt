@@ -1,0 +1,7 @@
+F:\MyProgramm\CShape\DesignPattern\AbstractFactorySample\bin\Debug\AbstractFactorySample.exe.config
+F:\MyProgramm\CShape\DesignPattern\AbstractFactorySample\bin\Debug\AbstractFactorySample.exe
+F:\MyProgramm\CShape\DesignPattern\AbstractFactorySample\bin\Debug\AbstractFactorySample.pdb
+F:\MyProgramm\CShape\DesignPattern\AbstractFactorySample\obj\Debug\AbstractFactorySample.csprojAssemblyReference.cache
+F:\MyProgramm\CShape\DesignPattern\AbstractFactorySample\obj\Debug\AbstractFactorySample.csproj.CoreCompileInputs.cache
+F:\MyProgramm\CShape\DesignPattern\AbstractFactorySample\obj\Debug\AbstractFactorySample.exe
+F:\MyProgramm\CShape\DesignPattern\AbstractFactorySample\obj\Debug\AbstractFactorySample.pdb
