@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodSample", "Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactorySample", "AbstractFactorySample\AbstractFactorySample.csproj", "{5E229DB6-59CC-40C4-B460-0CD63A8DB535}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BigTalkDesignPattern", "BigTalkDesignPattern", "{A661A31D-7E0D-4B90-B2A3-A0EA13D449FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderSample", "BuilderSample\BuilderSample.csproj", "{D70E4EFB-548C-4F40-BD7B-52994E000CDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,10 @@ Global
 		{5E229DB6-59CC-40C4-B460-0CD63A8DB535}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E229DB6-59CC-40C4-B460-0CD63A8DB535}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E229DB6-59CC-40C4-B460-0CD63A8DB535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70E4EFB-548C-4F40-BD7B-52994E000CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70E4EFB-548C-4F40-BD7B-52994E000CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70E4EFB-548C-4F40-BD7B-52994E000CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70E4EFB-548C-4F40-BD7B-52994E000CDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
