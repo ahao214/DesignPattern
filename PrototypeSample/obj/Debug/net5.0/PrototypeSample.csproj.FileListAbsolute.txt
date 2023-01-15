@@ -1,0 +1,16 @@
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\bin\Debug\net5.0\PrototypeSample.exe
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\bin\Debug\net5.0\PrototypeSample.deps.json
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\bin\Debug\net5.0\PrototypeSample.runtimeconfig.json
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\bin\Debug\net5.0\PrototypeSample.runtimeconfig.dev.json
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\bin\Debug\net5.0\PrototypeSample.dll
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\bin\Debug\net5.0\ref\PrototypeSample.dll
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\bin\Debug\net5.0\PrototypeSample.pdb
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\obj\Debug\net5.0\PrototypeSample.csproj.AssemblyReference.cache
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\obj\Debug\net5.0\PrototypeSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\obj\Debug\net5.0\PrototypeSample.AssemblyInfoInputs.cache
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\obj\Debug\net5.0\PrototypeSample.AssemblyInfo.cs
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\obj\Debug\net5.0\PrototypeSample.csproj.CoreCompileInputs.cache
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\obj\Debug\net5.0\PrototypeSample.dll
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\obj\Debug\net5.0\ref\PrototypeSample.dll
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\obj\Debug\net5.0\PrototypeSample.pdb
+F:\MyProgramm\CShape\DesignPattern\PrototypeSample\obj\Debug\net5.0\PrototypeSample.genruntimeconfig.cache
