@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29926.136
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactorySample", "SimpleFactorySample\SimpleFactorySample.csproj", "{6A2EB2DE-006E-470E-B598-167C0A7E2CD6}"
 EndProject
@@ -13,7 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BigTalkDesignPattern", "Big
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderSample", "BuilderSample\BuilderSample.csproj", "{D70E4EFB-548C-4F40-BD7B-52994E000CDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeSample", "PrototypeSample\PrototypeSample.csproj", "{22F36D6A-8E25-463B-9F90-4C86C6ED6736}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypeSample", "PrototypeSample\PrototypeSample.csproj", "{22F36D6A-8E25-463B-9F90-4C86C6ED6736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonSample", "SingletonSample\SingletonSample.csproj", "{422BFEF9-190B-40CA-B0C1-18766F3155BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{22F36D6A-8E25-463B-9F90-4C86C6ED6736}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F36D6A-8E25-463B-9F90-4C86C6ED6736}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F36D6A-8E25-463B-9F90-4C86C6ED6736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422BFEF9-190B-40CA-B0C1-18766F3155BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422BFEF9-190B-40CA-B0C1-18766F3155BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422BFEF9-190B-40CA-B0C1-18766F3155BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422BFEF9-190B-40CA-B0C1-18766F3155BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
