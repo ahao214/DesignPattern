@@ -1,0 +1,15 @@
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\bin\Debug\net6.0\SingletonSample.exe
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\bin\Debug\net6.0\SingletonSample.deps.json
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\bin\Debug\net6.0\SingletonSample.runtimeconfig.json
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\bin\Debug\net6.0\SingletonSample.dll
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\bin\Debug\net6.0\SingletonSample.pdb
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\SingletonSample.csproj.AssemblyReference.cache
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\SingletonSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\SingletonSample.AssemblyInfoInputs.cache
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\SingletonSample.AssemblyInfo.cs
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\SingletonSample.csproj.CoreCompileInputs.cache
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\SingletonSample.dll
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\refint\SingletonSample.dll
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\SingletonSample.pdb
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\SingletonSample.genruntimeconfig.cache
+F:\MyProgramm\CShape\DesignPattern\SingletonSample\obj\Debug\net6.0\ref\SingletonSample.dll
